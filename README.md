@@ -1,16 +1,15 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 🌿
 
-<!--
-**paulohenriqueB1/paulohenriqueB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Paulo Henrique
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JAVAScript
+- Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📧
+
+  paulo.ferreira.batista@escola.pr.gov.br
+  
+  @paulohenrique
+
+![](https://tenor.com/pt-BR/view/athletico-paranaense-furacão-atletico-rubro-negro-gif-24808390)
